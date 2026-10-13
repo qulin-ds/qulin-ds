@@ -1,6 +1,8 @@
-### 👋 Привет, я qulin-ds
+### 👋 Привет, я Артём Мастеров
 
-Учебные работы ИТМО, командные проекты и инструменты, которыми пользуюсь сам.
+Студент ИТМО. Создаю учебные и личные проекты: от алгоритмов и баз данных до нейросетей и веб-приложений.
+
+**Технологии:** Python · C++ · PostgreSQL · Django · FastAPI · PyTorch
 
 [Все репозитории](https://github.com/qulin-ds?tab=repositories) · [Портфолио на SourceCraft](https://sourcecraft.dev/artemmasterov8/portfolio)
 
