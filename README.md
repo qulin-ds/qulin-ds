@@ -15,7 +15,7 @@
 
 - [🧩 Алгоритмы и структуры данных](https://github.com/qulin-ds/itmo-algorithms) — контесты на Python: матрицы, очереди, стек и рекурсия.
 - [🗄️ Базы данных](https://github.com/qulin-ds/itmo-databases) — лабораторные PostgreSQL, отчёт и модели draw.io.
-- [🐍 Python](https://github.com/qulin-ds/python-labs) — анализ успеваемости студентов с pandas и matplotlib.
+- 🐍 **Python:** [анализ успеваемости](https://github.com/qulin-ds/python-labs) с pandas и matplotlib; [Django Notes](https://github.com/qulin-ds/django-notes) — командная лабораторная: приложение для личных заметок.
 - [🌐 Веб-программирование](https://github.com/qulin-ds/student-management) — командное приложение для учёта студентов общежития.
 - [📚 Портфолио лабораторных](https://github.com/qulin-ds/itmo-portfolio) — сайт с отчётами на MkDocs Material.
 
