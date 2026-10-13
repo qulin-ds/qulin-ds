@@ -1,33 +1,35 @@
-# 👋 Привет, я qulin-ds
+### 👋 Привет, я qulin-ds
 
-Собираю учебные проекты ИТМО и инструменты, которыми пользуюсь сам: от алгоритмов и баз данных до нейросетей и веб-приложений.
+Учебные работы ИТМО, командные проекты и инструменты, которыми пользуюсь сам.
 
-[Все репозитории](https://github.com/qulin-ds?tab=repositories) · [SourceCraft](https://sourcecraft.dev/artemmasterov8/portfolio)
+[Все репозитории](https://github.com/qulin-ds?tab=repositories) · [Портфолио на SourceCraft](https://sourcecraft.dev/artemmasterov8/portfolio)
 
-## 🎓 ИТМО · Учебные работы
+### 🛠️ Мои проекты
 
-| Направление | Репозиторий | Что внутри |
-| :--- | :--- | :--- |
-| Алгоритмы | [itmo-algorithms](https://github.com/qulin-ds/itmo-algorithms) | Контесты на Python: матрицы, очереди, стек и рекурсия |
-| Базы данных | [itmo-databases](https://github.com/qulin-ds/itmo-databases) | Лабораторные PostgreSQL, отчёт и три модели draw.io |
-| Python | [python-labs](https://github.com/qulin-ds/python-labs) | Анализ успеваемости: pandas, matplotlib, notebooks |
-| Портфолио | [itmo-portfolio](https://github.com/qulin-ds/itmo-portfolio) | Сайт с отчётами на MkDocs Material |
+- [📅 ITMO Calendar Sync](https://github.com/qulin-ds/itmo-calendar-sync) — перенос расписания My ITMO в Google Календарь и Apple Calendar с автоматическим обновлением.
+- [🏠 Housing Price Prediction](https://github.com/qulin-ds/housing-price-prediction) — прогноз стоимости недвижимости на датасете California Housing.
 
-## 🧠 C++ · Машинное обучение
+### 🎓 ИТМО · Учебные работы
 
-- [neural-network-cpp](https://github.com/qulin-ds/neural-network-cpp) — нейронная сеть на C++17, градиентное и генетическое обучение, Python bindings. Командный проект.
-- [loan-approval-service](https://github.com/qulin-ds/loan-approval-service) — учебный ML-сервис команды «ГИК МАСТЕРС»: FastAPI и веб-интерфейс. Мой вклад — ML и frontend.
-- [housing-price-prediction](https://github.com/qulin-ds/housing-price-prediction) — прогноз стоимости жилья на California Housing.
-- [image-classifier-cnn](https://github.com/qulin-ds/image-classifier-cnn) — классификация CIFAR-10 на PyTorch.
+- [🧩 Алгоритмы и структуры данных](https://github.com/qulin-ds/itmo-algorithms) — контесты на Python: матрицы, очереди, стек и рекурсия.
+- [🗄️ Базы данных](https://github.com/qulin-ds/itmo-databases) — лабораторные PostgreSQL, отчёт и модели draw.io.
+- [🐍 Python](https://github.com/qulin-ds/python-labs) — анализ успеваемости студентов с pandas и matplotlib.
+- [🌐 Веб-программирование](https://github.com/qulin-ds/student-management) — командное приложение для учёта студентов общежития.
+- [📚 Портфолио лабораторных](https://github.com/qulin-ds/itmo-portfolio) — сайт с отчётами на MkDocs Material.
 
-## 🌐 Веб · Автоматизация
+### 🧠 C++
 
-- [student-management](https://github.com/qulin-ds/student-management) — управление студентами общежития: frontend, Django REST API и заготовка Spring Boot. Командный проект.
-- [itmo-calendar-sync](https://github.com/qulin-ds/itmo-calendar-sync) — My ITMO → Google Календарь → Apple Calendar, обновление без своего сервера.
+- [Neural Network](https://github.com/qulin-ds/neural-network-cpp) — нейронная сеть на C++17: градиентное и генетическое обучение, Python bindings. Командный проект.
 
-## 🏁 Хакатоны
+### 🌐 Веб
 
-- [gpn_hacaton](https://github.com/qulin-ds/gpn_hacaton) — PDF → Markdown через Docling, обработка таблиц и изображений.
+- [Student Management](https://github.com/qulin-ds/student-management) — управление студентами общежития: учёт, добавление и редактирование записей; HTML/JS, Django REST API и заготовка Spring Boot.
+
+### 🏁 Хакатоны
+
+- [📄 PDF Parsing](https://github.com/qulin-ds/gpn_hacaton) — PDF → Markdown через Docling, обработка таблиц и изображений.
+- [🏦 Loan Approval Service](https://github.com/qulin-ds/loan-approval-service) — ML-сервис команды «ГИК МАСТЕРС»: FastAPI и веб-интерфейс. Мой вклад — ML и frontend.
+- [🖼️ Image Classifier](https://github.com/qulin-ds/image-classifier-cnn) — классификация CIFAR-10 с CNN и ResNet на PyTorch.
 
 <details>
 <summary>Ранние работы и прежние репозитории</summary>
@@ -38,7 +40,3 @@
 - [demo-1402](https://github.com/qulin-ds/demo-1402) — статический сайт без генератора.
 
 </details>
-
----
-
-Проекты из SourceCraft перенесены в отдельные репозитории с описанием, ссылками на источник и сохранением сведений о команде. Инструкции запуска и статус реализации находятся в README каждого проекта.
