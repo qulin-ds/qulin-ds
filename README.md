@@ -11,6 +11,8 @@
 - [📅 ITMO Calendar Sync](https://github.com/qulin-ds/itmo-calendar-sync) — перенос расписания My ITMO в Google Календарь и Apple Calendar с автоматическим обновлением.
 - [🏠 Housing Price Prediction](https://github.com/qulin-ds/housing-price-prediction) — прогноз стоимости недвижимости на датасете California Housing.
 
+- [🏦 Loan Approval Service](https://github.com/qulin-ds/loan-approval-service) — самостоятельный проект: прогноз одобрения кредита, обучение ML-моделей, FastAPI и веб-интерфейс.
+
 ### 🎓 ИТМО · Учебные работы
 
 - [🧩 Алгоритмы и структуры данных](https://github.com/qulin-ds/itmo-algorithms) — контесты на Python: матрицы, очереди, стек и рекурсия.
@@ -30,7 +32,6 @@
 ### 🏁 Хакатоны
 
 - [📄 PDF Parsing](https://github.com/qulin-ds/gpn_hacaton) — PDF → Markdown через Docling, обработка таблиц и изображений.
-- [🏦 Loan Approval Service](https://github.com/qulin-ds/loan-approval-service) — ML-сервис команды «ГИК МАСТЕРС»: FastAPI и веб-интерфейс. Мой вклад — ML и frontend.
 - [🖼️ Image Classifier](https://github.com/qulin-ds/image-classifier-cnn) — классификация CIFAR-10 с CNN и ResNet на PyTorch.
 
 <details>
