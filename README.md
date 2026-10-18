@@ -31,6 +31,7 @@
 
 ### 🏁 Хакатоны
 
+- 🩺 **Oncology Research Assistant** — совместный хакатонный проект с [Андреем Сырчиным](https://github.com/l1234-tech): мультиагентный помощник для поиска, оценки и обобщения научных источников по онкологии. Python · LLM · Retrieval · SQLite. Исходный репозиторий приватный; публичная копия кода пока отсутствует.
 - [📄 PDF Parsing](https://github.com/qulin-ds/gpn_hacaton) — PDF → Markdown через Docling, обработка таблиц и изображений.
 - [🖼️ Image Classifier](https://github.com/qulin-ds/image-classifier-cnn) — классификация CIFAR-10 с CNN и ResNet на PyTorch.
 
